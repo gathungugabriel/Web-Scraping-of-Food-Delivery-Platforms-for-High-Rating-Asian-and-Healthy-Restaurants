@@ -1,0 +1,390 @@
+1711452670278	geckodriver	INFO	Listening on 127.0.0.1:62488
+1711452673442	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62489" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.GIT\\AppData\\Local\\Temp\\rust_mozprofilesoTnHv"
+1711452675035	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711452675042	Marionette	INFO	Listening on port 62512
+Read port: 62512
+WebDriver BiDi listening on ws://127.0.0.1:62489
+1711452675304	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.GIT\\AppData\\Local\\Temp\\rust_mozprofilesoTnHv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62489/devtools/browser/4fc206c4-13bc-46cd-bb9e-03cbcbaeb1bb
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ix8E4/yW/l/en_US/0qtm87LIakq.js?_nc_x=Ij3Wp8lg5Kz, line 100: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+1711452927970	Marionette	INFO	Stopped listening on port 62512
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1711452928018	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.sys.mjs :: allowAllCerts.disable :: line 51"  data: no] Stack trace: allowAllCerts.disable()@sys.mjs:51
+destroy()@sys.mjs:201
+deleteSession()@sys.mjs:142
+stop()@sys.mjs:229
+1711452934720	geckodriver	INFO	Listening on 127.0.0.1:62811
+1711452937786	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62812" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.GIT\\AppData\\Local\\Temp\\rust_mozprofilex1Z7CJ"
+1711452938241	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711452938246	Marionette	INFO	Listening on port 62823
+Read port: 62823
+WebDriver BiDi listening on ws://127.0.0.1:62812
+1711452938464	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.GIT\\AppData\\Local\\Temp\\rust_mozprofilex1Z7CJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62812/devtools/browser/380738b7-aaa1-462e-a61c-24634579c468
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ix8E4/yW/l/en_US/0qtm87LIakq.js?_nc_x=Ij3Wp8lg5Kz, line 100: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+1711453135873	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+1711511979007	Marionette	INFO	Stopped listening on port 62823
+Dynamically enable window occlusion 1
+efox.exe" "--marionette" "--remote-debugging-port" "63411" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.GIT\\AppData\\Local\\Temp\\rust_mozprofilebb0SMx"
+1711453272656	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711453272661	Marionette	INFO	Listening on port 63423
+Read port: 63423
+WebDriver BiDi listening on ws://127.0.0.1:63411
+1711453272880	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.GIT\\AppData\\Local\\Temp\\rust_mozprofilebb0SMx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63411/devtools/browser/a66fee62-8096-4150-b087-b1090f529b1c
+1711453305167	Marionette	INFO	Stopped listening on port 63423
+Dynamically enable window occlusion 1
+1711453678128	geckodriver	INFO	Listening on 127.0.0.1:63934
+1711453681167	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63935" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.GIT\\AppData\\Local\\Temp\\rust_mozprofileZ4hyKw"
+1711453681622	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711453681626	Marionette	INFO	Listening on port 63945
+Read port: 63945
+WebDriver BiDi listening on ws://127.0.0.1:63935
+1711453681843	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.GIT\\AppData\\Local\\Temp\\rust_mozprofileZ4hyKw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63935/devtools/browser/4e13d164-feaf-449a-ae68-44f2e6b7c087
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+1711453700220	Marionette	INFO	Stopped listening on port 63945
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1711453700263	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.sys.mjs :: allowAllCerts.disable :: line 51"  data: no] Stack trace: allowAllCerts.disable()@sys.mjs:51
+destroy()@sys.mjs:201
+deleteSession()@sys.mjs:142
+stop()@sys.mjs:229
+[Parent 271748, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+1711453750757	geckodriver	INFO	Listening on 127.0.0.1:64035
+1711453753822	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64036" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.GIT\\AppData\\Local\\Temp\\rust_mozprofileZtYaBb"
+1711453754188	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711453754193	Marionette	INFO	Listening on port 64052
+Read port: 64052
+WebDriver BiDi listening on ws://127.0.0.1:64036
+1711453754408	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.GIT\\AppData\\Local\\Temp\\rust_mozprofileZtYaBb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64036/devtools/browser/b7d94e67-c76f-44ba-b344-73c07e1fdc87
+1711453778399	Marionette	INFO	Stopped listening on port 64052
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1711453778456	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.sys.mjs :: allowAllCerts.disable :: line 51"  data: no] Stack trace: allowAllCerts.disable()@sys.mjs:51
+destroy()@sys.mjs:201
+deleteSession()@sys.mjs:142
+stop()@sys.mjs:229
+observe()@resource://gre/modules/AsyncShutdown.jsm:572
+1711453790927	geckodriver	INFO	Listening on 127.0.0.1:64135
+1711453796006	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64136" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.GIT\\AppData\\Local\\Temp\\rust_mozprofileWCYixa"
+1711453796421	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711453796426	Marionette	INFO	Listening on port 64147
+Read port: 64147
+WebDriver BiDi listening on ws://127.0.0.1:64136
+1711453796637	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.GIT\\AppData\\Local\\Temp\\rust_mozprofileWCYixa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64136/devtools/browser/3d91fff4-cf2e-4b2f-ab59-851d6f6feedc
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+1711453825489	Marionette	INFO	Stopped listening on port 64147
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1711453825543	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.sys.mjs :: allowAllCerts.disable :: line 51"  data: no] Stack trace: allowAllCerts.disable()@sys.mjs:51
+destroy()@sys.mjs:201
+deleteSession()@sys.mjs:142
+stop()@sys.mjs:229
+observe()@resource://gre/modules/AsyncShutdown.jsm:572
+1711453844518	geckodriver	INFO	Listening on 127.0.0.1:64232
+1711453847585	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64233" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.GIT\\AppData\\Local\\Temp\\rust_mozprofilerYuIZG"
+1711453847947	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711453847952	Marionette	INFO	Listening on port 64244
+Read port: 64244
+WebDriver BiDi listening on ws://127.0.0.1:64233
+1711453848166	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.GIT\\AppData\\Local\\Temp\\rust_mozprofilerYuIZG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64233/devtools/browser/1cf3439c-445e-4bec-85dc-791ed4e4b706
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.jsm", 116))
+1711453953274	Marionette	INFO	Stopped listening on port 64244
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1711453953318	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.sys.mjs :: allowAllCerts.disable :: line 51"  data: no] Stack trace: allowAllCerts.disable()@sys.mjs:51
+destroy()@sys.mjs:201
+deleteSession()@sys.mjs:142
+stop()@sys.mjs:229
+1711454334798	geckodriver	INFO	Listening on 127.0.0.1:64687
+1711454337853	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64688" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.GIT\\AppData\\Local\\Temp\\rust_mozprofile7PyR3m"
+1711454338287	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711454338292	Marionette	INFO	Listening on port 64701
+Read port: 64701
+WebDriver BiDi listening on ws://127.0.0.1:64688
+1711454338494	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.GIT\\AppData\\Local\\Temp\\rust_mozprofile7PyR3m\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64688/devtools/browser/9ca99929-a32e-4209-ba20-b38f7f5b9876
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.jsm", 116))
+console.error: Policies.jsm: 
+  Download failed - ERROR_NETWORK_FAILURE - https://addons.bromium-online.com/wsx.xpi
+1711454506965	Marionette	INFO	Stopped listening on port 64701
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1711454507012	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.sys.mjs :: allowAllCerts.disable :: line 51"  data: no] Stack trace: allowAllCerts.disable()@sys.mjs:51
+destroy()@sys.mjs:201
+deleteSession()@sys.mjs:142
+stop()@sys.mjs:229
+1711454512104	geckodriver	INFO	Listening on 127.0.0.1:64946
+1711454515157	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64947" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.GIT\\AppData\\Local\\Temp\\rust_mozprofilelezcWK"
+1711454515632	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711454515637	Marionette	INFO	Listening on port 64963
+Read port: 64963
+WebDriver BiDi listening on ws://127.0.0.1:64947
+1711454515877	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.GIT\\AppData\\Local\\Temp\\rust_mozprofilelezcWK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64947/devtools/browser/a10af404-b45e-4c53-a6db-9da239a9f064
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.50.110."
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.js", 334))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ocalhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.GIT\\AppData\\Local\\Temp\\rust_mozprofilesRQEp4"
+1711455616278	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711455616284	Marionette	INFO	Listening on port 49837
+Read port: 49837
+WebDriver BiDi listening on ws://127.0.0.1:49824
+1711455616504	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.GIT\\AppData\\Local\\Temp\\rust_mozprofilesRQEp4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49824/devtools/browser/dffd583a-8886-47b3-b964-284898ad4548
+1711455643200	Marionette	INFO	Stopped listening on port 49837
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1711455643246	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.sys.mjs :: allowAllCerts.disable :: line 51"  data: no] Stack trace: allowAllCerts.disable()@sys.mjs:51
+destroy()@sys.mjs:201
+deleteSession()@sys.mjs:142
+stop()@sys.mjs:229
+1711455668231	geckodriver	INFO	Listening on 127.0.0.1:49929
+1711455671285	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49930" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.GIT\\AppData\\Local\\Temp\\rust_mozprofileTg1SbG"
+1711455671735	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711455671740	Marionette	INFO	Listening on port 49940
+Read port: 49940
+WebDriver BiDi listening on ws://127.0.0.1:49930
+1711455671961	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.GIT\\AppData\\Local\\Temp\\rust_mozprofileTg1SbG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49930/devtools/browser/198e838f-cdde-46d5-b986-adee7a877975
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 68: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+Extension error: InvalidStateError: An exception was thrown undefined 8978
+[[Exception stack
+resetTabBadge@moz-extension://7fdd2578-7ccb-4431-a4ad-3241872b8094/main.js:8978:19
+resetState@moz-extension://7fdd2578-7ccb-4431-a4ad-3241872b8094/main.js:12610:27
+onTopLevelFrameDisconnected@moz-extension://7fdd2578-7ccb-4431-a4ad-3241872b8094/main.js:12398:14
+onFrameDisconnected@moz-extension://7fdd2578-7ccb-4431-a4ad-3241872b8094/main.js:12386:18
+addFrameController/frameController<@moz-extension://7fdd2578-7ccb-4431-a4ad-3241872b8094/main.js:12342:131
+onFrameDisconnnected@moz-extension://7fdd2578-7ccb-4431-a4ad-3241872b8094/main.js:12297:14
+ContentScriptFrameController/this.pagePortController<@moz-extension://7fdd2578-7ccb-4431-a4ad-3241872b8094/main.js:12292:95
+onPageDisconnected@moz-extension://7fdd2578-7ccb-4431-a4ad-3241872b8094/main.js:6800:74
+PagePortController/this.pageChannel<@moz-extension://7fdd2578-7ccb-4431-a4ad-3241872b8094/main.js:6761:124
+handleDisconnect@moz-extension://7fdd2578-7ccb-4431-a4ad-3241872b8094/main.js:6594:14
+connect/</<@moz-extension://7fdd2578-7ccb-4431-a4ad-3241872b8094/main.js:6476:63
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:633:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2544:39
+]]
+1711455697757	Marionette	INFO	Stopped listening on port 49940
+Dynamically enable window occlusion 1
+1711512120311	geckodriver	INFO	Listening on 127.0.0.1:64223
+1711512123479	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64224" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.GIT\\AppData\\Local\\Temp\\rust_mozprofileBgENHW"
+1711512124040	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711512124046	Marionette	INFO	Listening on port 64234
+Read port: 64234
+WebDriver BiDi listening on ws://127.0.0.1:64224
+1711512124282	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.GIT\\AppData\\Local\\Temp\\rust_mozprofileBgENHW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64224/devtools/browser/4b90a6a5-f0ef-4ad2-a8eb-6b8b7f93b66e
+1711512146910	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1711512152267	Marionette	INFO	Stopped listening on port 64234
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1711512152322	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.sys.mjs :: allowAllCerts.disable :: line 51"  data: no] Stack trace: allowAllCerts.disable()@sys.mjs:51
+destroy()@sys.mjs:201
+deleteSession()@sys.mjs:142
+stop()@sys.mjs:229
+1711512159703	geckodriver	INFO	Listening on 127.0.0.1:64304
+1711512162758	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64305" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.GIT\\AppData\\Local\\Temp\\rust_mozprofileQxS9dx"
+1711512163118	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711512163123	Marionette	INFO	Listening on port 64313
+Read port: 64313
+WebDriver BiDi listening on ws://127.0.0.1:64305
+1711512163348	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.GIT\\AppData\\Local\\Temp\\rust_mozprofileQxS9dx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64305/devtools/browser/dbbbfabb-7487-4687-8976-4ef251e706db
+1711512185635	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1711512232874	Marionette	INFO	Stopped listening on port 64313
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1711512232934	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.sys.mjs :: allowAllCerts.disable :: line 51"  data: no] Stack trace: allowAllCerts.disable()@sys.mjs:51
+destroy()@sys.mjs:201
+deleteSession()@sys.mjs:142
+stop()@sys.mjs:229
+f82-1c5ef52af1ad
+1711512252042	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1711512254930	Marionette	INFO	Stopped listening on port 64425
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1711512254992	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.sys.mjs :: allowAllCerts.disable :: line 51"  data: no] Stack trace: allowAllCerts.disable()@sys.mjs:51
+destroy()@sys.mjs:201
+deleteSession()@sys.mjs:142
+stop()@sys.mjs:229
+observe()@resource://gre/modules/AsyncShutdown.jsm:572
+1711512397108	geckodriver	INFO	Listening on 127.0.0.1:64778
+1711512400193	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64779" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.GIT\\AppData\\Local\\Temp\\rust_mozprofilebTIC68"
+1711512400726	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711512400732	Marionette	INFO	Listening on port 64793
+Read port: 64793
+WebDriver BiDi listening on ws://127.0.0.1:64779
+1711512400967	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.GIT\\AppData\\Local\\Temp\\rust_mozprofilebTIC68\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64779/devtools/browser/638a153a-e597-4645-8197-6e5e2d2d0369
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ix8E4/yW/l/en_US/0qtm87LIakq.js?_nc_x=Ij3Wp8lg5Kz, line 100: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+1711512430053	Marionette	INFO	Stopped listening on port 64793
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1711512430111	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.sys.mjs :: allowAllCerts.disable :: line 51"  data: no] Stack trace: allowAllCerts.disable()@sys.mjs:51
+destroy()@sys.mjs:201
+deleteSession()@sys.mjs:142
+stop()@sys.mjs:229
+1711512438844	geckodriver	INFO	Listening on 127.0.0.1:64890
+1711512441959	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64891" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.GIT\\AppData\\Local\\Temp\\rust_mozprofilez26z6E"
+1711512442401	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711512442406	Marionette	INFO	Listening on port 64901
+Read port: 64901
+WebDriver BiDi listening on ws://127.0.0.1:64891
+1711512442619	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.GIT\\AppData\\Local\\Temp\\rust_mozprofilez26z6E\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64891/devtools/browser/f8e0f6bd-8b18-4292-887b-ae526c968220
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ix8E4/yW/l/en_US/0qtm87LIakq.js?_nc_x=Ij3Wp8lg5Kz, line 100: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+1711512456896	Marionette	INFO	Stopped listening on port 64901
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1711512456950	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.sys.mjs :: allowAllCerts.disable :: line 51"  data: no] Stack trace: allowAllCerts.disable()@sys.mjs:51
+destroy()@sys.mjs:201
+deleteSession()@sys.mjs:142
+stop()@sys.mjs:229
+1711512466011	geckodriver	INFO	Listening on 127.0.0.1:64985
+1711512469083	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64986" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.GIT\\AppData\\Local\\Temp\\rust_mozprofileqVZcTH"
+1711512469452	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711512469457	Marionette	INFO	Listening on port 64996
+Read port: 64996
+WebDriver BiDi listening on ws://127.0.0.1:64986
+1711512469676	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.GIT\\AppData\\Local\\Temp\\rust_mozprofileqVZcTH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64986/devtools/browser/f00171f2-27c4-4a97-b778-f38756588977
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ix8E4/yW/l/en_US/0qtm87LIakq.js?_nc_x=Ij3Wp8lg5Kz, line 100: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ibh54/ym/l/makehaste_jhash/0qtm87LIakqP3K-D68_GRwmYKAEIvrQASGSBS6DByMNAm6roulvqtlYMba0qSerMxwmFHbAERH-Iwn8ReVJO9XfpduCCxhLv8zayVy6wiPFdsSsXULCSPFEBJ6nT7i8sTdDgSzy3QSKi4t7v5Fl1LsX7O8lqhVnHcJH7dM-c2BIhVpAC0Ha3Y31Mm4E6VQTxaS8egfgWwKrgGSv8NfbYEjIb6dmaqQLjNwjl_faqrvVt6VukkVL0-4JKFZrXYXZcroSmKa90RDzA9xAYILFuH_1kM1nEvA.js?_nc_x=Ij3Wp8lg5Kz, line 100: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+1711516863846	Marionette	INFO	Stopped listening on port 64996
+Dynamically enable window occlusion 1
+ profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.GIT\\AppData\\Local\\Temp\\rust_mozprofileVWn5s1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49965/devtools/browser/9d4e90a4-4126-4514-a2af-7bb4c9577f35
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ix8E4/yW/l/en_US/0qtm87LIakq.js?_nc_x=Ij3Wp8lg5Kz, line 100: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ibh54/ym/l/makehaste_jhash/0qtm87LIakqP3K-D68_GRwmYKAEIvrQASGSBS6DByMNAm6roulvqtlYMba0qSerMxwmFHbAERH-Iwn8ReVJO9XfpduCCxhLv8zayVy6wiPFdsSsXULCSPFEBJ6nT7i8sTdDgSzy3QSKi4t7v5Fl1LsX7O8lqhVnHcJH7dM-c2BIhVpAC0Ha3Y31Mm4E6VQTxaS8egfgWwKrgGSv8NfbYEjIb6dmaqQLjNwjl_faqrvVt6VukkVL0-4JKFZrXYXZcroSmKa90RDzA9xAYILFuH_1kM1nEvA.js?_nc_x=Ij3Wp8lg5Kz, line 100: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+1711513660262	Marionette	INFO	Stopped listening on port 49974
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1711513660321	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.sys.mjs :: allowAllCerts.disable :: line 51"  data: no] Stack trace: allowAllCerts.disable()@sys.mjs:51
+destroy()@sys.mjs:201
+deleteSession()@sys.mjs:142
+stop()@sys.mjs:229
+1711513679712	geckodriver	INFO	Listening on 127.0.0.1:50159
+1711513682759	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50160" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.GIT\\AppData\\Local\\Temp\\rust_mozprofilegPc7xJ"
+1711513683253	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711513683258	Marionette	INFO	Listening on port 50169
+Read port: 50169
+WebDriver BiDi listening on ws://127.0.0.1:50160
+1711513683488	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.GIT\\AppData\\Local\\Temp\\rust_mozprofilegPc7xJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50160/devtools/browser/3881593f-4c71-4e8c-8a1f-edc962b2418c
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ix8E4/yW/l/en_US/0qtm87LIakq.js?_nc_x=Ij3Wp8lg5Kz, line 100: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ibh54/ym/l/makehaste_jhash/0qtm87LIakqP3K-D68_GRwmYKAEIvrQASGSBS6DByMNAm6roulvqtlYMba0qSerMxwmFHbAERH-Iwn8ReVJO9XfpduCCxhLv8zayVy6wiPFdsSsXULCSPFEBJ6nT7i8sTdDgSzy3QSKi4t7v5Fl1LsX7O8lqhVnHcJH7dM-c2BIhVpAC0Ha3Y31Mm4E6VQTxaS8egfgWwKrgGSv8NfbYEjIb6dmaqQLjNwjl_faqrvVt6VukkVL0-4JKFZrXYXZcroSmKa90RDzA9xAYILFuH_1kM1nEvA.js?_nc_x=Ij3Wp8lg5Kz, line 100: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+1711513732272	Marionette	INFO	Stopped listening on port 50169
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1711513732323	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.sys.mjs :: allowAllCerts.disable :: line 51"  data: no] Stack trace: allowAllCerts.disable()@sys.mjs:51
+destroy()@sys.mjs:201
+deleteSession()@sys.mjs:142
+stop()@sys.mjs:229
+1711515042326	geckodriver	INFO	Listening on 127.0.0.1:62499
+1711515045386	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62500" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GABRIE~1.GIT\\AppData\\Local\\Temp\\rust_mozprofileuWEJ1a"
+1711515045882	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711515045888	Marionette	INFO	Listening on port 62512
+Read port: 62512
+WebDriver BiDi listening on ws://127.0.0.1:62500
+1711515046126	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GABRIE~1.GIT\\AppData\\Local\\Temp\\rust_mozprofileuWEJ1a\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62500/devtools/browser/43c32d74-3778-499e-88ab-65a3e0bb91f1
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
